@@ -51,6 +51,11 @@ body {
     height: auto;
 }
 
+.post-image {
+    width: 75%;
+    height: auto;
+}
+
 .author {
     color: white;
     margin: 4px;
