@@ -12,7 +12,7 @@ class CollaborateForm(forms.ModelForm):
         Meta: Inner class defining metadata for the form.
     """
     class Meta:
-         """Metadata options for the CollaborateForm.
+        """Metadata options for the CollaborateForm.
 
         Attributes:
             model (Model): The model class this form is based on.

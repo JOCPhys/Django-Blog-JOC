@@ -3,7 +3,7 @@ from django import forms
 
 
 class CommentForm(forms.ModelForm):
-        """Form for submitting comments.
+    """Form for submitting comments.
 
     This form is based on the Comment model and includes only the 'body' field
     for the comment content.
